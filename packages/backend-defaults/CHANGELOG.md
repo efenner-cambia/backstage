@@ -1,5 +1,14 @@
 # @backstage/backend-defaults
 
+## 0.1.5-next.2
+
+### Patch Changes
+
+- 843a0a158c: Added factory for the new core identity service to the set of default service factories.
+- Updated dependencies
+  - @backstage/backend-app-api@0.3.0-next.2
+  - @backstage/backend-plugin-api@0.3.0-next.2
+
 ## 0.1.5-next.1
 
 ### Patch Changes

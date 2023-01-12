@@ -1,5 +1,14 @@
 # @backstage/plugin-scaffolder-backend-module-rails
 
+## 0.4.8-next.3
+
+### Patch Changes
+
+- 268b8634f9: handle skipActiveRecord rails new argument
+- Updated dependencies
+  - @backstage/backend-common@0.18.0-next.2
+  - @backstage/plugin-scaffolder-backend@1.10.0-next.3
+
 ## 0.4.8-next.2
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # @backstage/plugin-badges-backend
 
+## 0.1.34-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.18.0-next.2
+
 ## 0.1.34-next.2
 
 ### Patch Changes

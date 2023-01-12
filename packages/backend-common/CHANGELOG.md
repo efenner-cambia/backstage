@@ -1,5 +1,14 @@
 # @backstage/backend-common
 
+## 0.18.0-next.2
+
+### Patch Changes
+
+- 31e2309c8c: Added `legacyPlugin` and the lower level `makeLegacyPlugin` wrappers that convert legacy plugins to the new backend system. This will be used to ease the future migration to the new backend system, but we discourage use of it for now.
+- Updated dependencies
+  - @backstage/backend-app-api@0.3.0-next.2
+  - @backstage/backend-plugin-api@0.3.0-next.2
+
 ## 0.18.0-next.1
 
 ### Patch Changes

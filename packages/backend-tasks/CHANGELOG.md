@@ -1,5 +1,13 @@
 # @backstage/backend-tasks
 
+## 0.4.1-next.2
+
+### Patch Changes
+
+- 3fad4ed40a: Added a new static `TaskScheduler.forPlugin` method.
+- Updated dependencies
+  - @backstage/backend-common@0.18.0-next.2
+
 ## 0.4.1-next.1
 
 ### Patch Changes

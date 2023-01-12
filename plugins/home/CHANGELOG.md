@@ -1,5 +1,16 @@
 # @backstage/plugin-home
 
+## 0.4.30-next.3
+
+### Patch Changes
+
+- 27a5e90e97: Small updates to some paragraph components to ensure theme typography properties are inherited correctly.
+- 80ce4e8c29: Small updates to some components to ensure theme typography properties are inherited correctly.
+- Updated dependencies
+  - @backstage/plugin-stack-overflow@0.1.10-next.3
+  - @backstage/core-components@0.12.3-next.3
+  - @backstage/plugin-catalog-react@1.2.4-next.3
+
 ## 0.4.30-next.2
 
 ### Patch Changes

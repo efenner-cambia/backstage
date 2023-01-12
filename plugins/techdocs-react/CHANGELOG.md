@@ -1,5 +1,12 @@
 # @backstage/plugin-techdocs-react
 
+## 1.1.2-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.12.3-next.3
+
 ## 1.1.2-next.2
 
 ### Patch Changes

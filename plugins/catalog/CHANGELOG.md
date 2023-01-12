@@ -1,5 +1,16 @@
 # @backstage/plugin-catalog
 
+## 1.7.2-next.3
+
+### Patch Changes
+
+- 5353b4df61: There is now tooltip in the entity context menu
+- Updated dependencies
+  - @backstage/core-components@0.12.3-next.3
+  - @backstage/plugin-search-react@1.4.0-next.3
+  - @backstage/plugin-catalog-react@1.2.4-next.3
+  - @backstage/integration-react@1.1.9-next.3
+
 ## 1.7.2-next.2
 
 ### Patch Changes

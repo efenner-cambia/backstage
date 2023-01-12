@@ -1,5 +1,15 @@
 # @backstage/plugin-fossa
 
+## 0.2.46-next.3
+
+### Patch Changes
+
+- 27a5e90e97: Small updates to some paragraph components to ensure theme typography properties are inherited correctly.
+- 80ce4e8c29: Small updates to some components to ensure theme typography properties are inherited correctly.
+- Updated dependencies
+  - @backstage/core-components@0.12.3-next.3
+  - @backstage/plugin-catalog-react@1.2.4-next.3
+
 ## 0.2.46-next.2
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @backstage/plugin-scaffolder
 
+## 1.10.0-next.3
+
+### Patch Changes
+
+- 27a5e90e97: Small updates to some paragraph components to ensure theme typography properties are inherited correctly.
+- Updated dependencies
+  - @backstage/core-components@0.12.3-next.3
+  - @backstage/plugin-catalog-react@1.2.4-next.3
+  - @backstage/integration-react@1.1.9-next.3
+  - @backstage/plugin-scaffolder-react@1.0.0-next.1
+
 ## 1.10.0-next.2
 
 ### Minor Changes

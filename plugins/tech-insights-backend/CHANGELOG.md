@@ -1,5 +1,15 @@
 # @backstage/plugin-tech-insights-backend
 
+## 0.5.6-next.3
+
+### Patch Changes
+
+- 44c18b4d3f: Expose optional `persistenceContext` on `TechInsights` construction to enable integrators to provide their own database implementations for fact handling.
+- Updated dependencies
+  - @backstage/backend-common@0.18.0-next.2
+  - @backstage/backend-tasks@0.4.1-next.2
+  - @backstage/plugin-tech-insights-node@0.3.8-next.2
+
 ## 0.5.6-next.2
 
 ### Patch Changes

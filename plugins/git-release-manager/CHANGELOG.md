@@ -1,5 +1,13 @@
 # @backstage/plugin-git-release-manager
 
+## 0.3.27-next.3
+
+### Patch Changes
+
+- 80ce4e8c29: Small updates to some components to ensure theme typography properties are inherited correctly.
+- Updated dependencies
+  - @backstage/core-components@0.12.3-next.3
+
 ## 0.3.27-next.2
 
 ### Patch Changes

@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-react
 
+## 1.2.4-next.3
+
+### Patch Changes
+
+- 0e33627996: Remove usage of raw span
+- Updated dependencies
+  - @backstage/core-components@0.12.3-next.3
+
 ## 1.2.4-next.2
 
 ### Patch Changes

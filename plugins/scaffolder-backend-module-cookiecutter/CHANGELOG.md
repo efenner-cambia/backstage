@@ -1,5 +1,13 @@
 # @backstage/plugin-scaffolder-backend-module-cookiecutter
 
+## 0.2.15-next.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/backend-common@0.18.0-next.2
+  - @backstage/plugin-scaffolder-backend@1.10.0-next.3
+
 ## 0.2.15-next.2
 
 ### Patch Changes
